@@ -38,3 +38,6 @@ cookbook 'osx',
 cookbook 'sprout-osx-rubymine',
   :git => 'git://github.com/pivotal-sprout/sprout.git',
   :path => 'sprout-osx-rubymine'
+
+cookbook 'sprout-holysugar',
+  :git => 'https://github.com/holysugar/sprout-holysugar.git'

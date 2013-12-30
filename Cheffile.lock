@@ -100,6 +100,14 @@ GIT
       homebrew (>= 0.0.0)
       sprout-osx-base (>= 0.0.0)
 
+GIT
+  remote: https://github.com/holysugar/sprout-holysugar.git
+  ref: master
+  sha: ae0a601a10158223575997e243855d911e84f7ad
+  specs:
+    sprout-holysugar (0.1.0)
+      sprout-osx-base (>= 0.0.0)
+
 PATH
   remote: site-cookbooks/meta
   specs:
@@ -112,6 +120,7 @@ DEPENDENCIES
   meta (>= 0)
   osx (>= 0)
   pivotal_workstation (>= 0)
+  sprout-holysugar (>= 0)
   sprout-osx-apps (>= 0)
   sprout-osx-base (>= 0)
   sprout-osx-git (>= 0)
