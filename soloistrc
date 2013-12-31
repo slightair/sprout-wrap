@@ -15,6 +15,7 @@ recipes:
 - sprout-holysugar::ricty
 
 # apps
+- sprout-slightair::rbenv
 - sprout-osx-apps::skype
 - sprout-osx-apps::dropbox
 - sprout-osx-apps::chrome

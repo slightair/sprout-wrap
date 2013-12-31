@@ -111,7 +111,7 @@ GIT
 GIT
   remote: https://github.com/slightair/sprout-slightair.git
   ref: master
-  sha: e7ceeb122e3b72a53676dffab3fd78ae327b4a39
+  sha: 18b44be00b8564888ec6a45e1018311ddb7f8ed4
   specs:
     sprout-slightair (0.1.0)
       homebrew (>= 0.0.0)
