@@ -108,6 +108,15 @@ GIT
     sprout-holysugar (0.1.0)
       sprout-osx-base (>= 0.0.0)
 
+GIT
+  remote: https://github.com/slightair/sprout-slightair.git
+  ref: master
+  sha: e7ceeb122e3b72a53676dffab3fd78ae327b4a39
+  specs:
+    sprout-slightair (0.1.0)
+      homebrew (>= 0.0.0)
+      sprout-osx-base (>= 0.0.0)
+
 PATH
   remote: site-cookbooks/meta
   specs:
@@ -128,4 +137,5 @@ DEPENDENCIES
   sprout-osx-rubymine (>= 0)
   sprout-osx-settings (>= 0)
   sprout-pivotal (>= 0)
+  sprout-slightair (>= 0)
 

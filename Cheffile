@@ -41,3 +41,6 @@ cookbook 'sprout-osx-rubymine',
 
 cookbook 'sprout-holysugar',
   :git => 'https://github.com/holysugar/sprout-holysugar.git'
+
+cookbook 'sprout-slightair',
+  :git => 'https://github.com/slightair/sprout-slightair.git'

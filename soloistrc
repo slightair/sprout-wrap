@@ -28,6 +28,7 @@ recipes:
 - sprout-osx-apps::the_silver_searcher
 - sprout-osx-apps::zsh
 - sprout-holysugar::googlejapaneseinput
+- sprout-slightair::totalterminal
 
 node_attributes:
   dock_preferences:
