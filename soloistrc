@@ -11,7 +11,8 @@ recipes:
 - sprout-osx-settings::global_environment_variables
 - pivotal_workstation::git_config_global_defaults
 - sprout-osx-settings::dock_preferences
-- sprout-holysugar::change_shell_to_zsh
+- pivotal_workstation::oh_my_zsh
+- sprout-slightair::terminal_theme_ir_black
 - sprout-holysugar::ricty
 
 # apps
