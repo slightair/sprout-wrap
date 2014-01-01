@@ -32,6 +32,7 @@ recipes:
 - sprout-osx-apps::zsh
 - sprout-holysugar::googlejapaneseinput
 - sprout-slightair::totalterminal
+- sprout-slightair::tree
 
 node_attributes:
   dock_preferences:
