@@ -33,6 +33,7 @@ recipes:
 - sprout-holysugar::googlejapaneseinput
 - sprout-slightair::totalterminal
 - sprout-slightair::tree
+- sprout-slightair::nodebrew
 
 node_attributes:
   dock_preferences:
